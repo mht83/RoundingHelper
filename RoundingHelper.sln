@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoundingHelper", "RoundingHelper\RoundingHelper.csproj", "{74AD1DF7-9E95-4D0A-96BF-C7F12F5C12EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74AD1DF7-9E95-4D0A-96BF-C7F12F5C12EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74AD1DF7-9E95-4D0A-96BF-C7F12F5C12EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74AD1DF7-9E95-4D0A-96BF-C7F12F5C12EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74AD1DF7-9E95-4D0A-96BF-C7F12F5C12EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE21EABD-E05E-4685-ACEC-85E9348449C9}
+	EndGlobalSection
+EndGlobal
